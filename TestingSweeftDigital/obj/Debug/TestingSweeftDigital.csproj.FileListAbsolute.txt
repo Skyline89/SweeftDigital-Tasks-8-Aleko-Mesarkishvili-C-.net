@@ -1,0 +1,7 @@
+C:\Users\DESKTOP.GE\source\repos\TestingSweeftDigital\TestingSweeftDigital\bin\Debug\TestingSweeftDigital.exe.config
+C:\Users\DESKTOP.GE\source\repos\TestingSweeftDigital\TestingSweeftDigital\bin\Debug\TestingSweeftDigital.exe
+C:\Users\DESKTOP.GE\source\repos\TestingSweeftDigital\TestingSweeftDigital\bin\Debug\TestingSweeftDigital.pdb
+C:\Users\DESKTOP.GE\source\repos\TestingSweeftDigital\TestingSweeftDigital\obj\Debug\TestingSweeftDigital.csproj.AssemblyReference.cache
+C:\Users\DESKTOP.GE\source\repos\TestingSweeftDigital\TestingSweeftDigital\obj\Debug\TestingSweeftDigital.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP.GE\source\repos\TestingSweeftDigital\TestingSweeftDigital\obj\Debug\TestingSweeftDigital.exe
+C:\Users\DESKTOP.GE\source\repos\TestingSweeftDigital\TestingSweeftDigital\obj\Debug\TestingSweeftDigital.pdb
